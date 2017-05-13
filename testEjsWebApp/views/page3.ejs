@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="stylesheets/page3.css">
+
+<a href="paint page/index.html"  title ="NEXT PAGE" class= "nextpage"> START</a>
+
+<script type="text/javascript">
+var a= ["","TREE","MONEY","BED","CAT","JAIL","DOCTOR","MOTH",];
+var b= ["POLE DANCE","AQUAREPANTS","WEB PAGE","RUN ", "MAKE UP ","LIPSTICK","TEACHER",];
+var c= ["HANDSOME","YOGA","FIRENDSHIP","MARRY","HARRY POTTER", "STUNNED","MARRIAGE",];
+function rInt(){
+return Math.floor(Math.random() * 10 % 7);
+}
+function aa(){
+document.getElementsByName('txt1')[0].value = a[rInt()];
+}
+
+function bb(){
+document.getElementsByName('txt2')[0].value = b[rInt()];
+}
+
+function cc(){
+document.getElementsByName('txt3')[0].value = c[rInt()];
+}
+</script>
+</head>
+<body>
+
+
+
+<input type="button" class ="button1" value=" LEVEL 1  " onclick="aa()" />
+<input type="text" class = "text1" name="txt1" />
+
+
+<input type="button"  class = "button2" value=" LEVEL 2  " onclick="bb()" />
+<input type="text" class = "text2" name="txt2" />
+
+<input type="button"  class = "button3" value=" LEVEL 3 " onclick="cc ()" />
+<input type="text" class = "text3" name="txt3" />
+
+
+
+
+</body>
+</html>

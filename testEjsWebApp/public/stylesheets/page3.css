@@ -1,0 +1,154 @@
+
+
+body {
+	background-image: url(http://p1.pichost.me/i/11/1344899.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+   font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.button1{
+	font-family: 'Roboto', sans-serif;
+	  background-color:  #6699CC; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+.button1
+{
+
+  position: absolute;
+	top: 40%;
+	left: 40%;
+	margin-top: -86px;
+	margin-left: -89px;
+	text-align: center;
+	
+
+}
+
+.text1 
+{
+	font-family: 'Roboto', sans-serif;
+		  background-color: #6699CC; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  position: absolute;
+	top: 40%;
+	left: 60%;
+	margin-top: -86px;
+	margin-left: -89px;
+	text-align: center;
+
+}
+
+.button2
+{
+		  background-color: #9999FF; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+  position: absolute;
+	top: 60%;
+	left: 40%;
+	margin-top: -86px;
+	margin-left: -89px;
+	text-align: center;
+
+}
+
+.text2 
+{
+			  background-color: #9999FF; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+  position: absolute;
+	top: 60%;
+	left: 60%;
+	margin-top: -86px;
+	margin-left: -89px;
+	text-align: center;
+
+}
+
+.button3
+{
+			  background-color: #CC6699; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  position: absolute;
+	top: 80%;
+	left: 40%;
+	margin-top: -86px;
+	margin-left: -89px;
+	text-align: center;
+
+
+}
+
+.text3
+{
+    background-color: #CC6699; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  position: absolute;
+  position: absolute;
+	top: 80%;
+	left: 60%;
+	margin-top: -86px;
+	margin-left: -89px;
+	text-align: center;}
+
+
+.nextpage
+{
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	top :80%;
+
+	left: 32%;
+	 background-color: #FF9999; /* Green */
+    border: none;
+    color: white;
+    padding: 13px 207px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+
+	text-align: center;
+}
